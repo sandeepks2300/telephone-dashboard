@@ -154,19 +154,19 @@ Professional loading placeholders displayed while API data is being fetched.
 Add screenshot here:
 
 ```text
-/screenshots/AnalyticsDashboard.png
+./screenshots/AnalyticsDashboard.png
 ```
 
 ### Analytics Section
 
 ```text
-/screenshots/KPI.png
+./screenshots/KPI.png
 ```
 
 ### Call Logs Table
 
 ```text
-/screenshots/CallLogs.png
+./screenshots/CallLogs.png
 ```
 
 ---
